@@ -1,0 +1,29 @@
+{
+  "area_terreno_escritura_m2": 385.95,
+  "area_geometrica_m2": 386.1,
+  "unidades_2q": 10,
+  "unidades_studio": 15,
+  "dois_quartos_m2_alvo": 40,
+  "studio_m2_alvo": 25,
+  "terreno_alturas_mapzen_m": [
+    939,
+    934,
+    926,
+    926
+  ],
+  "desnivel_maximo_estimado_m": 13,
+  "andares_superiores_requeridos": 2,
+  "pavimentos_residenciais_hipoteticos": [
+    "N+2",
+    "N+1",
+    "N-1",
+    "N-2",
+    "N-3"
+  ],
+  "projecao_conceitual_m2": 202.96,
+  "quantidade_vagas_frontais_ilustradas": 2,
+  "uso_residencial_multifamiliar_oficialmente_permitido": null,
+  "coeficiente_maximo_legal": null,
+  "afastamentos_legais": null,
+  "advertencia": "hipotese nao validada pela Prefeitura, nem topografo, nem arquiteto habilitado"
+}
